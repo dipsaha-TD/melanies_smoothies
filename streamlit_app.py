@@ -13,7 +13,7 @@ st.write(
   """
 )
 
-name_on_order = st.text_input("Movie title")
+name_on_order = st.text_input("Name On Order")
 st.write("The name on the order is", name_on_order)
 
 # option = st.selectbox(
